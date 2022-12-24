@@ -1,0 +1,8 @@
+.carousel-item{
+    position: relative;
+}
+.bondhon{
+    position: absolute;
+    top: 40%;
+    left: 15%;
+}
